@@ -1,0 +1,49 @@
+body{
+    font-family: 'Courier New', monospace;
+    margin : 20px;
+}
+.btn-again{
+padding : 10px 60px 10px 60px;
+font-size : 30px;
+}
+.between{
+font-size : 25px;
+display : inline;
+float : right;
+}
+h1{
+text-align: center;
+letter-spacing : 6px;
+padding : 10px;
+display: block;
+font-size: 50px;
+}
+.number{
+font-size : 120px;
+border-width: 5px;
+border-color: black;
+text-align: center;
+}
+.right{
+float : right;
+}
+.left{
+float : left;
+}
+.btn-again{
+border-radius: 16px;
+border: none;
+}
+.guess{
+padding:10px;
+border-radius:16px;
+}
+section button{
+ border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: bold;
+  font-size: 16px;
+  border-radius: 16px;
+}
