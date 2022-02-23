@@ -58,5 +58,6 @@ document.querySelector('.message').textContent = 'Start guessing....';
 document.querySelector('body').style.backgroundColor = 'white';
 document.querySelector('.score').textContent = '20';
 document.querySelector('.guess').value = '';
+  const secretNumber = Math.trunc(Math.random() * 20) + 1;
 //document.querySelector('.highscore').textContent = '0';
 });
